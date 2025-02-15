@@ -12,12 +12,12 @@ This project is a team effort. My main contributions include:
 <p align="center">
   <img src=https://github.com/user-attachments/assets/bd4936fb-b949-46fc-bfb2-d0dfc19bf68c width="800" alt="demo1" />
   <br>
-  <i>Product Comparison Service: Allows users to compare different products based on various attributes</i>
+  <i>Payment Integration with Stripe: Enables secure and seamless payments</i>
 </p>
 <p align="center">
   <img src=https://github.com/user-attachments/assets/7a0e2d9d-fde3-45e8-8d47-a6f9b854dc77 width="800" alt="demo1" />
   <br>
-  <i>Payment Integration with Stripe: Enables secure and seamless payments</i>
+  <i>Product Comparison Service: Allows users to compare different products based on various attributes</i>
 </p>
 
 ## How to run
